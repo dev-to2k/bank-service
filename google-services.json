@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1084772512394",
+    "firebase_url": "https://bank-service-c4ed8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bank-service-c4ed8",
+    "storage_bucket": "bank-service-c4ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084772512394:android:f42ad6ccb662a9ec6af373",
+        "android_client_info": {
+          "package_name": "com.company.bankservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084772512394-vqkm6p2auj3a8o4qea5oi2v63s6jqk60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Qf-VfhJ9tvB0zA8C7BlX8W6SpQp82JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084772512394-ked968iii5lgroo88setenbpkaarvrac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
